@@ -39,13 +39,13 @@ body {
 
 
 .bg-slide:nth-child(1) {
-  background-image: url("https://images.unsplash.com/photo-1523961131990-5ea7c61b2107");
+  background-image: url("img1.jpg");
 }
 .bg-slide:nth-child(2) {
-  background-image: url("https://images.unsplash.com/photo-1522202176988-66273c2fd55f");
+  background-image: url("img2.jpg");
 }
 .bg-slide:nth-child(3) {
-  background-image: url("https://images.unsplash.com/photo-1518770660439-4636190af475");
+  background-image: url("img3.jpg");
 }
 
 .bg-slide.active {
